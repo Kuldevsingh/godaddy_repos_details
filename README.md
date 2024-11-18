@@ -1,4 +1,4 @@
-###godaddy_repos_details
+## godaddy_repos_details
 ========
 
 This project is a Reacj.js application that fetches and displays detailed information about GoDaddy GitHub repositories.
